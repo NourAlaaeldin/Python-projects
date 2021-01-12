@@ -1,0 +1,12 @@
+friends = ["Asmaa","Bassant","Maha","Aya"]
+print(friends)
+print("*********************************")
+print(friends[0])
+print("*********************************")
+print(friends[-3])
+print("*********************************")
+print(friends[1:])
+print("*********************************")
+print(friends[1:3])
+print("*********************************")
+print(len(friends))
